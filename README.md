@@ -1,2 +1,3 @@
 # oracle-one
-- Anahi
+Nombres de participantes:
+-Anahi
